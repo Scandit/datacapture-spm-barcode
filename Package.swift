@@ -13,6 +13,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "ScanditBarcodeCapture", url: "https://ssl.scandit.com/sdk/download/scandit-datacapture-ios-barcode-6.8.0-beta.1-xcframework.zip", checksum: "2ac4244dc4ddda912a5632a8ecc8290d5ff6f6bf0acac3ccd84e57329feabaa0")
+        .binaryTarget(name: "ScanditBarcodeCapture", url: "https://ssl.scandit.com/sdk/download/scandit-datacapture-ios-barcode-6.8.0-beta.2-xcframework.zip", checksum: "6e54c2aa57d6fb85c9d44faedacaaeaa749ce33e394a3877c3cb0878c5a7ff5e")
     ]
 )
